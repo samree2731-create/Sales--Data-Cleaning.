@@ -1,0 +1,201 @@
+Order ID,Date,Customer Name,Product,Amount,City,Email
+1000,29-06-2025,Samantha Vargas,Broom,130.05,Boston,lori10@morris-foster.com
+1001,06-06-2025,Christopher Cole,Disinfectant,19.21,Los Angeles,jocelyn99@lewis.com
+1002,16-07-2025,Hailey Kelly,broom,118.11,Chicago,erin60@gmail.com
+1003,06-06-2025,William Fuller,Vacuum Cleaner,56.21,Chicago,stricklandjoanna@hotmail.com
+1004,19-07-2025,Dean Spencer,Glass Cleaner,138.89,Miami,barbara27@boyle.com
+1005,02-08-2025,Lindsey Cooper,Disinfectant,31.51,atlanta,hjohnson@clark.org
+1006,27-07-2025,Christine Kelly,Glass Cleaner,186.96,New York,vanessa48@gmail.com
+1007,12-06-2025,Bradley Arnold,Disinfectant,164.35,Los Angeles,russelldaniel@gmail.com
+1008,06-07-2025,Shannon Snyder,Broom,192.77,Los Angeles,amandataylor@sanchez.biz
+1009,27-06-2025,Tanya Shaffer,glass cleaner,34.91,Dallas,rclay@yahoo.com
+1010,16-06-2025,Linda Moreno,Mop,62.15,Boston,roy81@gmail.com
+1011,13-07-2025,Kevin Parks,Broom,192.82,Los Angeles,theodore71@gmail.com
+1012,01-07-2025,Casey Hancock,Glass Cleaner,120.68,New York,richard55@hernandez.biz
+1013,09-07-2025,Richard Morgan,Vacuum Cleaner,76.96,Los Angeles,hortonwilliam@hotmail.com
+1014,21-06-2025,Ronald Gonzalez,Floor Cleaner,17.12,Boston,saragreen@long.net
+1015,15-07-2025,Melissa Smith,Broom,105.83,Los Angeles,xjones@yahoo.com
+1016,05-07-2025,Mr. Steve Stephens,Disinfectant,72.26,Boston,woodsshannon@flores-andrews.biz
+1017,01-07-2025,Yolanda Torres,Disinfectant,111.63,Houston,melissa27@harris.net
+1018,29-06-2025,Candice Henson,Glass Cleaner,156.71,Los Angeles,wrightanthony@green-green.com
+1019,09-07-2025,Tammy Alvarez,Glass Cleaner,48.84,New York,bpeterson@hotmail.com
+1020,21-07-2025,Christopher Watson,Vacuum Cleaner,31.65,Atlanta,zparker@martin.biz
+1021,10-06-2025,Tiffany Schwartz,Vacuum Cleaner,63.29,New York,iphillips@gmail.com
+1022,28-07-2025,Jessica Craig,Floor Cleaner,15.95,Boston,fjohnson@williams-hernandez.com
+1023,13-07-2025,Brianna Gomez,Broom,162.23,Atlanta,riversamanda@quinn-williams.com
+1024,16-07-2025,Nancy Rice,Disinfectant,179.54,Atlanta,carpenterpaul@vazquez.com
+1025,28-06-2025,Jonathan York,Floor Cleaner,62.76,Dallas,stephaniemyers@franklin.com
+1026,27-07-2025,Perry Gordon,Broom,26.59,Los Angeles,cainregina@conley.com
+1027,10-06-2025,Terry Valentine,Mop,128.97,New York,kmelton@hotmail.com
+1028,24-07-2025,Larry Webb,glass cleaner,10.47,New York,curtisyoung@hotmail.com
+1029,14-06-2025,James Williams,Broom,35.35,Dallas,alexiswilson@gmail.com
+1030,06-07-2025,Kerry Poole,Disinfectant,18.49,New York,garciajill@gmail.com
+1031,28-07-2025,Jennifer Lee,Vacuum Cleaner,110.9,Atlanta,hbailey@gmail.com
+1032,28-07-2025,Yesenia Mitchell,Floor Cleaner,98.3,Houston,"flemingcynthia@yahoo,com"
+1033,05-06-2025,Tracy Crawford,Vacuum Cleaner,85.21,los angeles,ojoyce@smith-brown.org
+1034,20-07-2025,Elizabeth Mclaughlin,Vacuum Cleaner,58,Chicago,carolynvelasquez@hotmail.com
+1035,27-07-2025,James Palmer,Disinfectant,12.01,Boston,webersteven@adams.biz
+1036,15-07-2025,Mr. Richard Thomas MD,Floor Cleaner,197.5,Houston,matthewmiller@russo.com
+1037,22-07-2025,John Shelton,Floor Cleaner,163.57,Boston,tsanders@becker-mills.biz
+1038,01-08-2025,James Arnold,Vacuum Cleaner,160.38,chicago,grayethan@wells.com
+1039,10-07-2025,Paul Mitchell,Broom,100.65,Houston,patelpaul@fitzpatrick.com
+1040,04-07-2025,Katherine Rogers,Floor Cleaner,104.1,Atlanta,morrissabrina@davis-mcpherson.com
+1041,06-07-2025,Evelyn Bonilla,Broom,141.31,Atlanta,hesslori@gmail.com
+1042,27-07-2025,Michael Li,Disinfectant,193.42,New York,christinevaughn@gmail.com
+1043,07-07-2025,Kevin Smith,Broom,55.49,Miami,hkeller[at]ward-ramsey.com
+1044,23-07-2025,Christopher Miller,Mop,116.53,Atlanta,qallen@gonzales-adams.biz
+1045,23-07-2025,Kyle Rosario,Broom,57.43,New York,jason84@jordan.info
+1046,17-07-2025,Nicole Keith,Glass Cleaner,121.27,Dallas,oburch@bird.com
+1047,18-07-2025,Tami Walsh,Vacuum Cleaner,85.99,Houston,jdiaz@yahoo.com
+1048,28-07-2025,Ryan Kelly,Mop,68.94,Boston,wpeterson@gmail.com
+1049,06-07-2025,Nicholas Bennett,Vacuum Cleaner,60.29,Atlanta,rsanchez@yahoo.com
+1050,18-07-2025,Robin Mccormick,Vacuum Cleaner,12.83,Houston,lindamartin@yahoo.com
+1051,07-07-2025,Mark Cole,Mop,162.84,Dallas,kathrynshields@olson-robinson.com
+1052,02-07-2025,Lisa Hamilton,Vacuum Cleaner,86.43,Dallas,williamsgary@gmail.com
+1053,26-07-2025,Timothy Fitzgerald,Mop,63.22,Chicago,bjenkins@hotmail.com
+1054,11-06-2025,Patricia White,Floor Cleaner,78.89,Los Angeles,harrisonkevin@torres-aguilar.info
+1055,19-07-2025,Ryan Young,Mop,133.2,Boston,shortmary@hotmail.com
+1056,15-06-2025,Christopher Dunn,Vacuum Cleaner,10.4,Houston,timothy56@turner.info
+1057,01-07-2025,Christina Johnson,Disinfectant,10.91,Houston,hhuffman@reynolds-simpson.com
+1058,23-06-2025,Christina Duarte,Broom,23.75,los angeles,sheena73@francis-webb.com
+1059,12-06-2025,Kevin Jackson,Vacuum Cleaner,143.87,Dallas,sesparza@hotmail.com
+1060,20-06-2025,Carol Barrett,disinfectant,195.5,Dallas,lisacortez@ho.org
+1061,07-07-2025,Derek Holmes,Vacuum Cleaner,164.61,Atlanta,donna21@murphy-brewer.net
+1062,19-07-2025,Heather Robbins DVM,Mop,55.41,Houston,xgonzales@gmail.com
+1063,26-06-2025,Daniel Holder,Disinfectant,108.87,Atlanta,anthonyhowe@johnson.com
+1064,26-06-2025,John Martin,Glass Cleaner,58.18,Miami,houseanthony@oconnor.com
+1065,22-07-2025,Natalie Burton,Mop,29.89,Dallas,tamara27@thompson-taylor.biz
+1066,25-07-2025,Heather Gamble,Vacuum Cleaner,148.3,Dallas,troymartin@walter-perry.net
+1067,05-07-2025,Terri Parker,Glass Cleaner,43.56,Chicago,georgewilliams@yahoo.com
+,16-07-2025,Whitney Nelson,floor cleaner,180.3,Houston,vanessa28@murphy-nguyen.com
+1069,10-07-2025,Raymond Wilson,Floor Cleaner,107.86,New York,lguzman@garcia.com
+1070,06-06-2025,Timothy Douglas,Disinfectant,167.77,Miami,nmccullough@gmail.com
+1071,18-06-2025,Gina Solomon,Glass Cleaner,77.37,Houston,kevin86@gmail.com
+1072,09-07-2025,Erin Buck,Broom,37.34,Houston,friggs@yahoo.com
+1073,15-07-2025,Jessica Turner,Disinfectant,173.35,Houston,jared29@wyatt.com
+1074,12-06-2025,Allen Summers,Broom,53.06,Atlanta,paulgardner[at]yahoo.com
+1075,25-06-2025,Pamela Pope,floor cleaner,51.67,boston,gcampbell@smith-bush.com
+1076,16-06-2025,Danielle Willis,Floor Cleaner,162.8,Chicago,mooremichele@patterson.com
+1077,01-08-2025,John Estrada,Mop,116.16,New York,hudsonmichael@jensen.biz
+1078,07-06-2025,Melanie Joseph,Disinfectant,173.51,Houston,anthony72@gmail.com
+1079,07-07-2025,Dennis Warren,Broom,179.58,New York,joshuasanders@holt.com
+1080,16-07-2025,John Clark,Mop,152.99,Chicago,"jacquelineturner@gmail,com"
+1081,07-06-2025,Gregory Coleman,Broom,158.6,Dallas,daviddodson@bond.org
+1082,27-06-2025,Dr. Nicholas Lee,Floor Cleaner,170.58,Houston,ruthhutchinson[at]rodriguez.com
+1083,17-06-2025,Dan Tate,Disinfectant,174.1,Chicago,kyle92@stephens-valdez.info
+1084,03-08-2025,Robert Mitchell,Broom,40.01,Boston,cookechristopher@hughes-roberts.com
+1085,17-06-2025,Stephanie Lozano,Mop,141.06,Boston,timpowers@hughes-potts.com
+1086,16-07-2025,John Long,Broom,70.69,Atlanta,vasquezlauren@gmail.com
+1087,02-07-2025,Latasha Robinson,Broom,64.46,Chicago,danielfrank@hotmail.com
+1088,09-07-2025,Paul Mcdonald,Mop,173.05,Atlanta,jacksonryan@king.com
+1089,14-06-2025,Charles Mullen,Glass Cleaner,89.79,New York,ashley91@yahoo.com
+1090,24-06-2025,Jennifer Thompson,Mop,85.89,Atlanta,steven66@anderson.com
+1091,06-07-2025,Robert Cruz,Glass Cleaner,57.67,Boston,torreskenneth@gmail.com
+1092,22-06-2025,Mark Miller,Disinfectant,74.68,Atlanta,mgray@gmail.com
+1093,13-07-2025,Brandon Hamilton,Broom,55.57,Chicago,scottchase@sosa-michael.net
+1094,30-06-2025,Jason Morgan,Vacuum Cleaner,19.82,Los Angeles,nsherman[at]johnson.com
+1095,22-07-2025,John Molina,Mop,38.52,Dallas,michelle49@yahoo.com
+1096,04-07-2025,Ashley Thomas,Broom,124.31,Chicago,lauren52@yahoo.com
+1097,01-08-2025,Phillip Orozco,Mop,142.27,New York,robin05@yahoo.com
+1098,12-06-2025,Chris Williamson,Disinfectant,139.96,Miami,ruizmatthew@miller.info
+1099,15-06-2025,Carly Luna,broom,35.62,Chicago,montgomerysamantha@powell.com
+1100,01-07-2025,Kelly King,Mop,123.89,Chicago,woodsamanda@lewis.com
+1101,24-07-2025,David Woods,Disinfectant,79.87,New York,keithgarcia[at]washington.info
+1102,01-08-2025,Charles Knight,Glass Cleaner,192.09,Miami,nhickman@hotmail.com
+1103,17-07-2025,Lorraine Smith PhD,Disinfectant,123.03,Chicago,jose34@marks.com
+1104,31-07-2025,Betty Jefferson,Glass Cleaner,27.49,New York,twilliams@hotmail.com
+1105,11-07-2025,Thomas Mitchell,Glass Cleaner,63.44,Boston,rodriguezlisa@gmail.com
+1106,17-07-2025,Logan Martinez,Glass Cleaner,174.17,Chicago,diazvincent@davis.com
+1107,15-06-2025,Mary Miller,Glass Cleaner,136.97,Miami,james42@gmail.com
+1108,07-06-2025,Suzanne Sandoval,Glass Cleaner,16.34,Los Angeles,courtneyross@gmail.com
+1109,11-07-2025,Bradley May,Broom,102.78,Boston,larry68@gmail.com
+1110,12-06-2025,Brent Alexander,glass cleaner,113.11,Los Angeles,vharrison@martinez.com
+1111,02-07-2025,Richard Thompson,Glass Cleaner,184.22,Chicago,franklinjustin@donaldson.com
+1112,02-07-2025,Pamela Gibbs,Vacuum Cleaner,42.54,Dallas,nelsondwayne@hotmail.com
+1113,27-06-2025,Kimberly Meyers,Broom,123.06,Miami,rhodesdavid@hotmail.com
+1114,28-07-2025,Kimberly Griffin,Mop,68.75,Boston,uallen@bird.info
+1115,09-06-2025,Jason Bennett,Broom,196.16,Dallas,kcoleman@hotmail.com
+1116,20-06-2025,David Thompson,Floor Cleaner,163.79,Chicago,cohenjessica@gmail.com
+1117,16-06-2025,Stephanie Turner,Glass Cleaner,99.09,Boston,meganrowland@hotmail.com
+1118,25-07-2025,Stephanie Graham,Mop,42.63,Miami,ehill@morrison.com
+1119,15-06-2025,Dr. Kevin Lewis MD,Vacuum Cleaner,111.84,New York,brooke55@cain-martin.biz
+1120,12-06-2025,Melinda Medina,Disinfectant,120.53,Chicago,rsmith@hotmail.com
+1121,10-07-2025,Adrian Jones,Mop,186.54,Boston,mcphersonzachary[at]yahoo.com
+1122,22-07-2025,Desiree Simon,Floor Cleaner,156.45,Miami,robert03[at]gmail.com
+1123,14-07-2025,Ashley Alexander,Broom,71.11,Houston,whiteapril@parker-fisher.com
+1124,28-07-2025,Matthew Kelly,Floor Cleaner,174.7,houston,benitezapril@wright.com
+1125,23-06-2025,James Clay,Mop,142.61,Boston,richardnoble@hotmail.com
+1126,27-06-2025,Kenneth Davidson,Mop,88.96,Dallas,truiz@gill-dunn.net
+1127,17-07-2025,Steven Mcgee,Floor Cleaner,110.69,Atlanta,imaldonado@yahoo.com
+1128,14-07-2025,Janet Dennis,Disinfectant,116.72,Los Angeles,wmeza@hotmail.com
+1129,26-06-2025,Kevin Fuentes,Glass Cleaner,61.75,Atlanta,bergrachael@gmail.com
+1130,30-06-2025,Jordan Tucker,Broom,103.35,New York,lmartin@hotmail.com
+1131,25-06-2025,Richard Brown,Mop,82.28,Houston,"mistysuarez@king,com"
+1132,12-07-2025,Travis Ramsey,Mop,10.45,los angeles,jessicaanderson@berg.com
+1133,13-07-2025,Daniel Garcia,Glass Cleaner,102.94,Miami,jwilliams@yahoo.com
+1134,06-06-2025,Erica Nelson MD,Disinfectant,122.13,Los Angeles,susan14@fitzpatrick.biz
+1135,05-06-2025,Mark Hall,Floor Cleaner,143.41,Dallas,turneranna@gmail.com
+1136,21-06-2025,Renee Holland,Broom,60.35,Atlanta,brianstone@holmes.info
+1137,12-07-2025,Vicki Brown,Broom,176.27,los angeles,nicolerodgers@yahoo.com
+1138,14-07-2025,John Shah,Vacuum Cleaner,31.65,Los Angeles,saraflores@hotmail.com
+1139,21-07-2025,Laurie Johnson,Mop,16.34,Boston,randy94@cox.com
+1140,27-06-2025,Tracy Holland,Mop,166.32,Boston,pperez@lawson-reyes.com
+1141,30-07-2025,Kristina Caldwell,Glass Cleaner,63.07,Dallas,daniellegray@yahoo.com
+1142,22-06-2025,Chad Haley,Glass Cleaner,188.26,Miami,briancastro[at]hotmail.com
+1143,05-07-2025,Amber Maldonado,Floor Cleaner,79.75,Boston,nfernandez@davis-hughes.net
+1144,15-07-2025,Andrew Martin,Vacuum Cleaner,79.79,chicago,melissa28@taylor-braun.com
+1145,25-06-2025,Eugene Walker,Disinfectant,179.12,New York,odomcameron[at]gmail.com
+1146,07-07-2025,Brian Baker,Mop,178.62,Miami,edennis@jackson-davidson.org
+1147,21-07-2025,Chad Martinez,disinfectant,130.81,Dallas,brucejohnson@lewis.com
+1148,15-06-2025,Stephanie Thomas,Vacuum Cleaner,39.57,Houston,leeaustin@yahoo.com
+1149,27-07-2025,Dominique Wise,Broom,130.23,Chicago,pambryant@neal.com
+1150,21-06-2025,Erin Miller,Mop,179.5,Chicago,ftucker@heath.com
+1151,20-06-2025,Caitlyn Preston,Glass Cleaner,69.28,Chicago,warnercory@yahoo.com
+1152,27-07-2025,Jesus Patel,Glass Cleaner,134.79,Houston,egreen@hotmail.com
+1153,03-08-2025,Frederick Collins,Mop,94.51,New York,jacob13@gmail.com
+1154,23-07-2025,Megan Tucker,Glass Cleaner,174.54,Dallas,megancombs[at]gmail.com
+1155,17-07-2025,Amanda Lowery,Broom,60,New York,robertthomas@rogers.com
+1156,03-07-2025,Gary Meyer,Mop,116.7,Chicago,higginsraymond@hunter-russell.info
+1157,06-06-2025,Diana Rodriguez,Mop,101.12,New York,gardnerjulia@sanchez.com
+1158,09-07-2025,Robert Jennings,Floor Cleaner,106.73,Atlanta,martinrobert@yahoo.com
+1159,16-07-2025,Micheal Thompson,Broom,30.87,Boston,whitneypowers@gmail.com
+1160,09-07-2025,Charles Norton,Glass Cleaner,99.26,Boston,navarrochristina@hotmail.com
+1161,06-07-2025,Jeffrey Meyer,Broom,79.2,Dallas,victorcastro@gmail.com
+1162,21-07-2025,Gregory Tucker,Mop,134.43,New York,hayeslori@logan.org
+1163,24-07-2025,David Reyes,Floor Cleaner,44.56,Los Angeles,griffineric@bullock.com
+1164,03-07-2025,Allison Richard,Mop,51.75,Los Angeles,robinsonjohn@gmail.com
+1165,17-07-2025,Albert Benson,Mop,181.21,New York,ireed@gmail.com
+1166,26-06-2025,Charles Brown,Glass Cleaner,58.37,Los Angeles,zlutz[at]yahoo.com
+1167,01-07-2025,Priscilla Flores,Vacuum Cleaner,89.96,Houston,grantmichael@gmail.com
+1168,27-06-2025,Linda Austin,Disinfectant,57.79,Dallas,jameshutchinson@yahoo.com
+1169,20-07-2025,Dr. Leslie Taylor MD,Broom,57.69,Los Angeles,knappkristin@davis.org
+1170,18-07-2025,Alexander Rollins,broom,169.59,Boston,david64@thomas-clark.org
+1171,11-06-2025,Steven Yang,Vacuum Cleaner,92.06,Chicago,allisonvalerie@warren.net
+1172,20-07-2025,Mr. Brian Williams,Broom,19.87,Atlanta,bishopcaleb@hotmail.com
+1173,05-06-2025,Randy Sanchez,Mop,87.01,Atlanta,robynrobinson@harris-thompson.com
+1174,30-06-2025,Sarah Mcneil,Mop,22.45,Los Angeles,jerome21@yahoo.com
+1175,19-07-2025,Margaret Blake,Vacuum Cleaner,143.57,Boston,randy69@johnson.com
+1176,05-06-2025,Richard Howard,Glass Cleaner,174.24,Atlanta,medinajasmine@gmail.com
+1177,27-06-2025,Adam Burns,Floor Cleaner,194.07,New York,tranmichael@yahoo.com
+1178,19-07-2025,Joshua Anderson,Disinfectant,84.95,houston,ojackson@yahoo.com
+1179,28-07-2025,Tina Myers,broom,142.18,Miami,karenbowman@gmail.com
+1180,21-06-2025,Matthew Jenkins,Vacuum Cleaner,66.61,Atlanta,robertgreen@long-reyes.info
+1181,17-07-2025,Nancy Watson,Glass Cleaner,133.7,Atlanta,"catherineserrano@price,com"
+1182,27-06-2025,Joshua Garrett,Mop,31.37,Miami,gwells@parker-wilson.net
+1183,13-07-2025,John Flores,Floor Cleaner,65.1,Boston,"kjones@gmail,com"
+1184,05-06-2025,Christine Terry,Floor Cleaner,44.03,Atlanta,christiewagner@hotmail.com
+1185,11-07-2025,Dawn Allen,Glass Cleaner,70.88,Boston,andrea75@yahoo.com
+1186,14-06-2025,Megan Scott,Mop,177.27,New York,eric45@rodriguez.biz
+1187,13-07-2025,Nicole Douglas,Vacuum Cleaner,145.72,Houston,"jonesveronica@martin,com"
+,23-07-2025,Allison Wilson,Mop,168.34,Los Angeles,gonzalezdarlene@gmail.com
+1189,22-06-2025,Michael Frazier,Disinfectant,166.46,Chicago,jacob59@hotmail.com
+1190,23-07-2025,Michele Tate,Vacuum Cleaner,145.52,Dallas,catherine10@brewer.com
+1191,06-07-2025,Alex Lloyd,Mop,111.31,Atlanta,garzasusan@downs-martin.biz
+1192,28-06-2025,Antonio Sullivan,Mop,91.41,Miami,carolrodriguez@bell.net
+1193,19-06-2025,Maria Brown,Broom,27.66,Houston,levymichael[at]hotmail.com
+1194,26-06-2025,Megan White,Vacuum Cleaner,138.07,New York,katelynbarton@hotmail.com
+1195,31-07-2025,Autumn Walker,Vacuum Cleaner,105.33,Miami,erica50[at]hotmail.com
+1196,31-07-2025,Billy Ross,Floor Cleaner,147.63,Atlanta,josephrobinson@horne-bowman.info
+1197,22-07-2025,Henry Hopkins,Mop,99.42,Miami,moonsean@duran.com
+1198,10-06-2025,Beth Brown,Floor Cleaner,158.71,Los Angeles,crystalfrench@cannon.net
+1199,07-07-2025,Austin Turner Jr.,Glass Cleaner,116.29,Chicago,davisveronica@yahoo.com
